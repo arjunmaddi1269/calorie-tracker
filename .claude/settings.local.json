@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.businessofapps.com)",
+      "WebFetch(domain:techcrunch.com)",
+      "WebFetch(domain:www.crunchbase.com)",
+      "WebFetch(domain:www.myfitnesspal.com)",
+      "WebFetch(domain:www.loseit.com)",
+      "WebFetch(domain:www.calai.app)",
+      "Bash(npm create:*)",
+      "Bash(pkill:*)",
+      "Bash(curl:*)",
+      "Bash(chmod +x:*)",
+      "Bash(./test-api.sh:*)",
+      "mcp__aws-knowledge__aws___search_documentation",
+      "mcp__aws-knowledge__aws___read_documentation",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(grep -E \"\\\\.env$\")",
+      "Bash(git rm:*)",
+      "Bash(grep \"\\\\.env$\")"
+    ]
+  }
+}
